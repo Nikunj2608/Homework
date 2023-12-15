@@ -1,0 +1,52 @@
+*{
+    background-color: #fb8500;
+ }
+    h4{
+        font-family: 'Poppins', sans-serif;
+    }
+    h1{
+        font-size: 50px;
+        text-align: left;
+    }
+    span{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        font-size: larger;
+        font-stretch: expanded;
+        color: #00FF33;
+        text-transform: capitalize;
+        text-wrap: stable;
+        text-align: justify;
+        vertical-align: 400px;
+       }
+    .alb{
+      border: 3px solid #00FF33;
+      width: 600px;
+      border-radius: 7px;   
+      position: relative;
+      left: 700px;
+      bottom: 400px;
+    }
+    button{
+        background-color: #4681f4;
+        color: antiquewhite;
+        font-family:'Poppins', sans-serif;
+        position: relative;
+        left: -510px;
+        top: -131px;
+        width: 149px;
+        border-color: aqua;
+        border-radius: 7px;
+        
+    }
+    svg{
+     position: relative;
+     right: 1056px;
+     bottom: 282px;   
+    }
+    .yo{
+       width: 28px;
+        position: relative;
+        bottom: 1036px;
+        left: 195px;
+    }
